@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Easy Permissions</string>
+
+    <string name="rationale_camera">This app needs access to your camera so you can take pictures.</string>
+    <string name="rationale_location">This app needs access to your location to know where you are.</string>
+    <string name="rationale_sms">This app needs access to your sms to read all your great messages.</string>
+    <string name="rationale_contact">This app needs access to your contact to know you better</string>
+    <string name="returned_from_app_settings_to_activity">
+        Returned from app settings to MainActivity with the following permissions:
+        \n\nCamera: %s
+        \nLocation: %s
+        \nSMS: %s
+        \nContacts: %s
+    </string>
+    <string name="camera">Camera</string>
+    <string name="location">Location</string>
+    <string name="sms">SMS</string>
+    <string name="contacts">Contacts</string>
+    <string name="yes" />
+    <string name="no" />
+</resources>
